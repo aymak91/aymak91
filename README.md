@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo! What's poppin'? 👋
 
 <!--
 **aymak91/aymak91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
