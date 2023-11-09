@@ -1,6 +1,8 @@
 ### Heyo! What's poppin'? 👋
+SF 🌉 | he/him | dev 💻 | doggo lover 🐺| taco connoisseur 🌮| mental wellness advocate 💚
 
-I love
+I'm probably the type of guy who would over-engineer a problem by using Dijkstra's algorithm to find the shortest path to the grocery store or something. 🤷‍♂️
+
 <!--
 **aymak91/aymak91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=aymak91&theme=tokyonight&show_icons=true)
+
+<details>
+<summary> 🧩 Top Languages</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymak91&theme=tokyonight&layout=compact" />
+</details>
+
+<details>
+<summary> 🧩 Github Stats</summary><br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=aymak91&theme=tokyonight&count_private=true&show_icons=true)
+</details>
