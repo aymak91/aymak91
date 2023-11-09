@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 <details>
 <summary> 🧩 Github Stats</summary><br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=aymak91&theme=tokyonight&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=aymak91&theme=tokyonight&count_private=true&show_icons=true">
 </details>
